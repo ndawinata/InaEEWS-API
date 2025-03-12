@@ -1,0 +1,137 @@
+{
+    "openapi":"3.1.0",
+    "info":{
+        "title":"InaEEWS API",
+        "version":"1.0.0",
+        "description":"API untuk InaEEWS",
+        "termsOfService":null,
+        "contact":{
+            "name":"BMKG",
+            "url":"https://bmkg.go.id",
+            "email":"cc196@bmkg.go.id"
+        },
+        "license":{
+            "name":"BMKG",
+            "url":"https://bmkg.go.id"
+        },
+        "servers":[
+            
+        ],
+        "externalDocs":{
+            "description":null,
+            "url":null
+        },
+        "components":{
+            "schemas":{
+                
+            },
+            "responses":{
+                
+            },
+            "parameters":{
+                
+            },
+            "examples":{
+                
+            },
+            "requestBodies":{
+                
+            },
+            "securitySchemes":{
+                
+            },
+            "links":{
+                
+            },
+            "callbacks":{
+                
+            },
+            "pathItems":{
+                
+            }
+        }
+    },
+    "paths":{
+        "/users":{
+            "get":{
+                "summary":"",
+                "description":"No description provided",
+                "parameters":[
+                    
+                ],
+                "tags":[
+                    "get"
+                ],
+                "responses":{
+                    "200":{
+                        "description":"Successful Response",
+                        "content":{
+                            "text/plain":{
+                                "schema":{
+                                    
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/":{
+            "get":{
+                "summary":"",
+                "description":"No description provided",
+                "parameters":[
+                    
+                ],
+                "tags":[
+                    "get"
+                ],
+                "responses":{
+                    "200":{
+                        "description":"Successful Response",
+                        "content":{
+                            "text/plain":{
+                                "schema":{
+                                    
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components":{
+        "schemas":{
+            
+        },
+        "responses":{
+            
+        },
+        "parameters":{
+            
+        },
+        "examples":{
+            
+        },
+        "requestBodies":{
+            
+        },
+        "securitySchemes":{
+            
+        },
+        "links":{
+            
+        },
+        "callbacks":{
+            
+        },
+        "pathItems":{
+            
+        }
+    },
+    "servers":[
+        
+    ],
+    "externalDocs":null
+}
